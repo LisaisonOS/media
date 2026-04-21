@@ -1,13 +1,13 @@
 # EmComm-Tools Media
 
-Screenshots and media assets for [EmComm-Tools Debian Edition](https://emcomm-tools.ca).
+Screenshots and media assets for [Liaison OS Debian Edition](https://liaisonos.com).
 
 ## Usage
 
 Reference images via raw URLs:
 
 ```markdown
-![Screenshot](https://raw.githubusercontent.com/emcomm-tools/media/main/screenshots/2.1.3/example.png)
+![Screenshot](https://raw.githubusercontent.com/liaisonos/media/main/screenshots/2.1.3/example.png)
 ```
 
 ## Structure
